@@ -1,6 +1,5 @@
 package myMath;
 
-//start getting into the habit of using comments
 public class MySet implements MyMath<MySet>{
 
 	private int[] setArray;
