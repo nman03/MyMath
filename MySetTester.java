@@ -3,6 +3,7 @@ package myMath;
 import static org.junit.Assert.*;
 import java.util.Arrays;
 import org.junit.Test;
+import myMath.MySet;
 
 public class MySetTester {
 
